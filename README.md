@@ -1,6 +1,6 @@
 <div align="center">
 
-  # april fools 2023
+  # ☠ april fools 2023
 
   <sub>Source code for my april fools 2023 prank.</sub>
 
